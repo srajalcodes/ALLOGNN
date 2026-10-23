@@ -56,7 +56,7 @@ cd ALLOGNN
 
 ```bash
 conda env create -f environment.yml
-conda activate ALLOGNN
+conda activate allognn
 ```
 
 ### 3. Download the precomputed dataset
